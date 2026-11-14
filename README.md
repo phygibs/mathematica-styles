@@ -11,8 +11,6 @@ A native **Wolfram Mathematica Notebook** (`PlotOptions.nb`) containing reusable
 
 Both plots were exported directly from Mathematica as SVG files. Their white backgrounds keep the labels and axes legible in GitHub's light and dark modes.
 
-[Default Plot Options (PDF)](assets/default-plot.pdf) · [Current Plot Options (PDF)](assets/current-plot.pdf)
-
 ## Dependencies
 
 - **Wolfram Mathematica** with a notebook front end to open and evaluate `.nb` files.
