@@ -1,6 +1,6 @@
-# Mathematica plot options
+# Mathematica Plot Options
 
-A native **Wolfram Mathematica notebook** (`PlotOptions.nb`) containing reusable defaults and colour palettes for 2D plots: framed axes, zero-reference grid lines, Latin Modern typography, and LaTeX labels through MaTeX.
+A native **Wolfram Mathematica Notebook** (`PlotOptions.nb`) containing reusable defaults and colour palettes for 2D plots: framed axes, zero-reference grid lines, Latin Modern typography, and LaTeX labels through MaTeX.
 
 ## Dependencies
 
