@@ -7,9 +7,9 @@ A native **Wolfram Mathematica Notebook** (`PlotOptions.nb`) containing reusable
 
 | Default Plot Options | Current Plot Options |
 |:---:|:---:|
-| ![Default plot options: illustrative sine-curve plot with crossing axes](assets/default-plot-options.svg) | ![Current plot options: illustrative sine-curve plot with framed axes and reference lines](assets/current-plot-options.svg) |
+| ![Default Plot Options: blue sine curve with conventional Mathematica formatting](assets/default-plot-options.svg) | ![Current Plot Options: green sine curve with Mathematica custom LaTeX styling](assets/current-plot-options.svg) |
 
-*The default plot is a vector conversion of the supplied Mathematica PDF. The current-style plot is still an illustrative preview because the uploaded `p1current.pdf` contains only the text `p1curent`, not a plot.*
+*Both plots reproduce the same example from the author's Mathematica PDF exports (blue: default settings; green: PlotOptions.nb settings). The SVGs are web-friendly redraws, not direct exports.*
 
 ## Dependencies
 
