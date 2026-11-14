@@ -5,7 +5,7 @@ A native **Wolfram Mathematica Notebook** (`PlotOptions.nb`) containing reusable
 ## Dependencies
 
 - **Wolfram Mathematica** with a notebook front end to open and evaluate `.nb` files.
-- **[MaTeX](https://github.com/szhorvat/MaTeX)**, a Wolfram paclet for rendering LaTeX. Install on supported versions using `ResourceFunction["MaTeXInstall"][]`.
+- **[MaTeX](https://github.com/szhorvat/MaTeX)**, a Wolfram paclet for rendering LaTeX.
 - **A LaTeX distribution** (TeX Live, MiKTeX or MacTeX) with `pdflatex` and the packages needed by MaTeX (including `standalone`, `exscale`, `lmodern`) and the `color` package used in the notebook.
 - **Ghostscript** for MaTeX. See [MaTeX setup instructions](https://szhorvat.net/pelican/latex-typesetting-in-mathematica.html) for version and configuration details.
 - **Optional: LM Roman 12** installed as a system font. Otherwise change `PlotFontFamily` at the start of the notebook's input cell.
@@ -37,7 +37,7 @@ The default styles affect `Plot`, `ListPlot`, `ListLinePlot`, `LogPlot`, `LogLog
 
 ## Using figures in Overleaf
 
-Overleaf cannot execute Mathematica notebooks. Generate figures in Mathematica and export them as PDF:
+Overleaf cannot execute Mathematica notebooks yet. Generate figures in Mathematica and export them as PDF or SVG:
 
 ```wl
 Export["sine-plot.pdf", plot];
