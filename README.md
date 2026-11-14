@@ -5,11 +5,11 @@ A native **Wolfram Mathematica Notebook** (`PlotOptions.nb`) containing reusable
 
 ## Plot comparison
 
-| Default Plot Options | Current Plot Options |
-|:---:|:---:|
-| ![Default Plot Options: blue sine curve with conventional Mathematica formatting](assets/default-plot-options.svg) | ![Current Plot Options: green sine curve with Mathematica custom LaTeX styling](assets/current-plot-options.svg) |
+![Side-by-side comparison: Default Plot Options (left) and Current Plot Options (right), from Mathematica PDF exports](assets/plot-comparison.png)
 
-*Both plots reproduce the same example from the author's Mathematica PDF exports (blue: default settings; green: PlotOptions.nb settings). The SVGs are web-friendly redraws, not direct exports.*
+The same function plotted with the default Mathematica settings (left) and the custom `PlotOptions.nb` settings (right). These previews were made from the original Mathematica exports.
+
+[Default Plot Options (PDF)](assets/default-plot.pdf) · [Current Plot Options (PDF)](assets/current-plot.pdf)
 
 ## Dependencies
 
