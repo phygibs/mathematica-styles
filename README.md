@@ -9,7 +9,7 @@ A native **Wolfram Mathematica Notebook** (`PlotOptions.nb`) containing reusable
 |:---:|:---:|
 | ![Default plot options: illustrative sine-curve plot with crossing axes](assets/default-plot-options.svg) | ![Current plot options: illustrative sine-curve plot with framed axes and reference lines](assets/current-plot-options.svg) |
 
-*The default-style preview has been updated to reflect the supplied Mathematica sine plot; the current-style image is still illustrative. The SVG previews are not direct Mathematica exports.*
+*The default plot is a vector conversion of the supplied Mathematica PDF. The current-style plot is still an illustrative preview because the uploaded `p1current.pdf` contains only the text `p1curent`, not a plot.*
 
 ## Dependencies
 
