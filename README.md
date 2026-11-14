@@ -2,6 +2,15 @@
 
 A native **Wolfram Mathematica Notebook** (`PlotOptions.nb`) containing reusable defaults and colour palettes for 2D plots: framed axes, zero-reference grid lines, Latin Modern typography, and LaTeX labels through MaTeX.
 
+
+## Plot comparison
+
+| Default Plot Options | Current Plot Options |
+|:---:|:---:|
+| ![Default plot options: illustrative sine-curve plot with crossing axes](assets/default-plot-options.svg) | ![Current plot options: illustrative sine-curve plot with framed axes and reference lines](assets/current-plot-options.svg) |
+
+*The same sine curve with default-style and notebook-style formatting. These SVGs are illustrative previews, not direct Mathematica exports.*
+
 ## Dependencies
 
 - **Wolfram Mathematica** with a notebook front end to open and evaluate `.nb` files.
