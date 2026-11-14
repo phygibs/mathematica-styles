@@ -59,6 +59,10 @@ Licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)*
 
 Mathematica, MaTeX, LaTeX, Ghostscript, and font software are third-party dependencies subject to their own terms.
 
+## Attribution
+
+See the [PlotOptions.nb](PlotOptions.nb) notebook for how to attribute this work.
+
 ## References
 
 - [MaTeX source repository](https://github.com/szhorvat/MaTeX)
