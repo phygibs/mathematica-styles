@@ -5,9 +5,11 @@ A native **Wolfram Mathematica Notebook** (`PlotOptions.nb`) containing reusable
 
 ## Plot comparison
 
-![Side-by-side comparison: Default Plot Options (left) and Current Plot Options (right), from Mathematica PDF exports](assets/plot-comparison.png)
+| Default Plot Options | Current Plot Options |
+|:---:|:---:|
+| ![Default Mathematica plot options](assets/default-plot.svg) | ![Current plot options from PlotOptions.nb](assets/current-plot.svg) |
 
-The same function plotted with the default Mathematica settings (left) and the custom `PlotOptions.nb` settings (right). These previews were made from the original Mathematica exports.
+Both plots were exported directly from Mathematica as SVG files. Their white backgrounds keep the labels and axes legible in GitHub's light and dark modes.
 
 [Default Plot Options (PDF)](assets/default-plot.pdf) · [Current Plot Options (PDF)](assets/current-plot.pdf)
 
